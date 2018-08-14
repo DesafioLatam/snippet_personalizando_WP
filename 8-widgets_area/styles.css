@@ -1,0 +1,20 @@
+li#smart-social-media-widget-2.widget.smart-social-media-widget {
+  text-align: center;
+}
+
+.ssmw-button-container {
+  float: none;
+}
+
+p.ssmw-simple.ssmw-button-container.ssmw-center.ssmw-width-33 {
+  font-size: 2em;
+  background: #F05F40;
+  border-radius: 50%;
+  width: 1.5em;
+  height: 1.5em;
+  margin: 1em .25em;
+}
+
+.ssmw-button:after {
+  font-size: 1em;
+}
